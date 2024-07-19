@@ -1,0 +1,53 @@
+{
+    "vehicles":[
+        {
+            "id": "1" ,
+            "image" :" https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-S/5252/1611840999494/front-left-side-47.jpg",
+            "name" : "Tesla Model S",
+            "price" : "Starts from approximately ₹1.05 Crore",
+            "mileage" : "Claimed range of up to 652 km on a single charge",
+            "color" : "Multiple color options available",
+            "seats" : "5",
+            "fuel" : "Electric",
+            "gear" : "Single-speed gear",
+            "description" : "The Tesla Model S is a luxury electric sedan known for its performance, range, and advanced technology. It offers a spacious interior, premium features, and Tesla's Autopilot driver assistance system."
+           
+        },
+        {
+            "id": "2" ,
+            "image" :  "  https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Tesla-Model-Y/6396/1552894185017/front-left-side-47.jpg",
+            "name" : "Tesla Model Y",
+            "price" : "Starts from approximately ₹70 Lakh",
+            "mileage" : "Claimed range of up to 540 km on a single charge",
+            "color" : "Multiple color options available",
+            "seats" : "5 or 7 (depending on configuration)",
+            "fuel" : "Electric",
+            "gear" : "Single-speed gear",
+            "description" : "The Tesla Model Y is a mid-size electric SUV offering a blend of practicality and performance. It shares many similarities with the Model 3 but provides more cargo space and SUV-like features."
+        },
+        {
+            "id": "3" ,
+            "image" :  " https://stimg.cardekho.com/images/carexteriorimages/630x420/Tesla/Cybertruck/7236/1574859399554/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+            "name" : "Tesla Cybertruck",
+            "price" : "Starting price expected to be around ₹40 Lakh (unconfirmed)",
+            "mileage" : "Claimed range of up to 800 km (for the top-tier model)",
+            "color" : "Stainless steel exterior",
+            "seats" : "5 or 6 (depending on configuration)",
+            "fuel" : "Electric",
+            "gear" : "Single-speed gear",
+            "description" : "The Tesla Cybertruck is an electric pickup truck with a futuristic and angular design. It promises impressive performance, towing capacity, and off-road capabilities. However, production and delivery timelines are subject to change."
+        },
+        {
+            "id": "4",
+            "image" :  " https://hips.hearstapps.com/hmg-prod/images/2019-tesla-model3-lt-airporthero-low-101-1587061146.jpg",
+            "name" :  "Tesla Model 3",
+            "price" : "Starts from approximately ₹50 Lakh",
+            "mileage" : "Claimed range of up to 652 km on a single charge (depending on the variant)",
+            "color" : "Multiple color options available",
+            "seats" : "5",
+            "fuel" : "Electric",
+            "gear" : "Single-speed gear",
+            "description" : "The Tesla Model 3 is a mid-size electric sedan known for its sleek design, efficient performance, and advanced technology. It offers a comfortable interior, a spacious trunk, and Tesla's Autopilot driver assistance system."
+        }
+    ]
+}
